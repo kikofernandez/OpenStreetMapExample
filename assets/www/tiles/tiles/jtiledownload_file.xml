@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Type">UrlSquare</entry>
+<entry key="OutputLocation">/Users/kikofernandezreyes/Desktop/OpenLayers/code/tiles/tiles</entry>
+<entry key="TileServer">Mapnik</entry>
+<entry key="PasteUrl">http://www.openstreetmap.org/?lat=59.3867&amp;lon=13.4995&amp;zoom=13&amp;layers=M</entry>
+<entry key="OutputZoomLevel">12,13</entry>
+<entry key="Radius">5</entry>
+</properties>
